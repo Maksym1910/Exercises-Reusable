@@ -8,3 +8,4 @@ function greetings(name) {
 }
 
 greetings(MY_NAME);
+
